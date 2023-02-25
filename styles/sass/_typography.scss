@@ -1,0 +1,17 @@
+$logoFont: 'Tilt Prism', cursive;
+
+html {
+    font-size: 125%;
+}
+
+
+body {
+    margin: 0;
+    height: 100vh;
+    cursor: url('../assets/dragon.png'), text;
+    overflow-x: hidden;
+}
+
+h1 {
+  font-family: $logoFont;
+}
