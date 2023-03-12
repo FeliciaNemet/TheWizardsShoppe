@@ -259,25 +259,28 @@ span {
 figcaption {
   font-size: 30px;
   margin: 10px;
+  font-family: "Olde English", sans-serif;
 }
 
 h1 {
   padding-top: 50px;
-  font-family: "Tilt Prism", cursive;
+  font-family: "Olde English", sans-serif;
   font-size: 70px;
   letter-spacing: 2.5px;
   margin: 10px;
+  text-transform: uppercase;
 }
 
-h2 {
+h2, h3 {
   font-size: 40px;
-  font-family: "Tilt Prism", cursive;
+  font-family: "Olde English", sans-serif;
   letter-spacing: 2.5px;
 }
 
 a {
   text-decoration: none;
   color: #9c89ff;
+  font-family: "Olde English", sans-serif;
 }
 
 .textCenter {
@@ -285,7 +288,7 @@ a {
 }
 
 p {
-  font-family: "Tilt Prism", cursive;
+  font-family: "Olde English", sans-serif;
 }
 
 img {
